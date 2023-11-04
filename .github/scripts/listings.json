@@ -37213,5 +37213,24 @@
         "company_url": "https://simplify.jobs/c/Mozilla",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mozilla",
+        "id": "5c178118-7d77-4493-95c0-b845c139569f",
+        "title": "Mobile Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1699052704,
+        "date_posted": 1699052704,
+        "url": "https://boards.greenhouse.io/mozilla/jobs/5425138",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Mozilla",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
